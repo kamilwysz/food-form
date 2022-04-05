@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-form/static/css/main.b991ed25.css",
+    "main.js": "/food-form/static/js/main.8d9393ba.js",
+    "index.html": "/food-form/index.html",
+    "main.b991ed25.css.map": "/food-form/static/css/main.b991ed25.css.map",
+    "main.8d9393ba.js.map": "/food-form/static/js/main.8d9393ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b991ed25.css",
+    "static/js/main.8d9393ba.js"
+  ]
+}
