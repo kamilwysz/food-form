@@ -39,6 +39,7 @@ const handleSubmitForm = e =>{
   .then(setTimeout((e) => {
     setFormIsSubmitted(false)
   }, 5000))
+  .catch(error=>console.log(error))
   }
 
 useEffect(()=>{
