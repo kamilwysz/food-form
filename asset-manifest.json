@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/food-form/static/css/main.b991ed25.css",
-    "main.js": "/food-form/static/js/main.8d9393ba.js",
+    "main.js": "/food-form/static/js/main.a756f265.js",
     "index.html": "/food-form/index.html",
     "main.b991ed25.css.map": "/food-form/static/css/main.b991ed25.css.map",
-    "main.8d9393ba.js.map": "/food-form/static/js/main.8d9393ba.js.map"
+    "main.a756f265.js.map": "/food-form/static/js/main.a756f265.js.map"
   },
   "entrypoints": [
     "static/css/main.b991ed25.css",
-    "static/js/main.8d9393ba.js"
+    "static/js/main.a756f265.js"
   ]
 }
