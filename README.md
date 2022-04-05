@@ -24,3 +24,6 @@ Running development
 // in the main folder run
 npm start
 ```
+
+Node version: v16.13.2
+npm version: 8.1.2
